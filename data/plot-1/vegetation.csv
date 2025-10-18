@@ -1,0 +1,34 @@
+Plot No.,Quadrant ID,Type,Number,Species,Total GBH at Breast Height,GBH (Girth at Breast Height) - First Branch,GBH (Girth at Breast Height) - Second Branch,GBH (Girth at Breast Height) - Third Branch,Height (m),First Branching (cm),Circumference of Small Plants(m) ,Remark
+1,Q1,Tree,1,,14.3,14.3,,,4.05,55.88,,
+1,Q1,Tree,1,,99.8,99.8,,,13.5,335.25,,
+1,Q1,,1,Justicia adhatoda,0,,,,,,6,
+1,Q2,Tree,1,,57.2,50,,7.2,40,,,
+1,Q2,Shrub,2,,0,,,,,,,
+1,Q2,Sapling,2,,0,,,,,,,
+1,Q2,Tree,1,Ficus racemosa,103,103,,,11.3,225,,
+1,Q2,Tree,1,Pongamia pinnata,48,28,20,,7.1,83,,
+1,Q3,Tree,1,Indian drumstick,89.5,44,45.5,,9.4,55,,Pruning done on the tree
+1,Q3,Saplings,30,,0,,,,,,8,
+1,Q3,Shrub,8,,0,,,,2,,,
+1,Q4,Tree,1,Pongamia pinnata,85,38,47,,7.9,56,,
+1,Q4,Sapling,1,Zingiber officinale,0,,,,,,7.7,
+1,Q4,Shrub,2,,0,,,,,,,
+2,Q1,Tree,1,Azadirachta indica,84,84,,,11.1,,,
+2,Q1,Tree,1,Caesalpinia pulcherrima,48,25,23,,8.2,5,,Blank black dark spots
+2,Q2,Tree,1,Hibiscus rosa-sinensis,40,20,20,,1.5,109,,
+2,Q2,Tree,1,Hibiscus rosa-sinensis,30,17,13,,1.5,115,,
+2,Q2,Tree,1,Hibiscus rosa-sinensis,59,23,16,20,3,20,,Dead Mushrooms
+2,Q2,Shrub,1,Hibiscus rosa-sinensis,0,,,,0.76,,,
+2,Q2,Tree,1,Hibiscus rosa-sinensis,28,13,8,7,2.6,14,,
+2,Q3,Tree,1,Hibiscus rosa-sinensis,18,18,,,2.3,,,Chil gaya hai andar se
+2,Q3,Tree,1,Hibiscus rosa-sinensis,21,21,,,,93,,
+2,Q3,Tree,1,Hibiscus rosa-sinensis,18,18,,,2.3,78,,"Pruning at beach one, red ants"
+2,Q3,Tree,1,Neem,59,59,,,12.3,350,,Moss growing on the tree
+2,Q3,Tree,1,Hibiscus rosa-sinensis,20,20,,,2,134,,
+2,Q3,Tree,1,Hibiscus rosa-sinensis,52,17,21,14,2.1,86,,
+2,Q3,Tree,1,Hibiscus rosa-sinensis,18,18,,,1.5,,,
+2,Q3,Tree,1,Hibiscus rosa-sinensis,51,21,14,16,2.5,104,,
+2,Q3,Tree,1,Hibiscus rosa-sinensis,51,21,16,14,2.5,95,,
+2,Q4,Tree,1,Caesalpinia pulcherrima,42.2,18.2,24,,7.5,20,,
+2,Q4,Tree,1,Caesalpinia pulcherrima,40,20,20,,,9,,Flowering Plant
+2,Q4,Tree,1,Caesalpinia pulcherrima,25.5,10,15.5,,17.2,,,Kate wala paed
